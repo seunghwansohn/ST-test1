@@ -32,6 +32,14 @@ app.get('/api/customers', (req, res) => {
             'birthday': '961112',
             'gender': '여자',
             'job': '무직'
+          },
+          {
+            'id': 4,
+            'image': 'https://placeimg.com/64/64/2',
+            'name': '노hh시개asdfasdfasdfsadf',
+            'birthday': '981112',
+            'gender': '여자',
+            'job': '무직'
           }
     ]);
 });
